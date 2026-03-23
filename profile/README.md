@@ -15,4 +15,5 @@ Dictus is an open-source voice dictation keyboard that runs entirely on your dev
 ## Links
 
 - 🌐 [getdictus.com](https://getdictus.com)
+- 💬 [Telegram community](https://t.me/getdictus)
 - 📧 contact@pivi.solutions
