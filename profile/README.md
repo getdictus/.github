@@ -11,6 +11,7 @@ Dictus is an open-source voice dictation keyboard that runs entirely on your dev
 | [dictus-ios](https://github.com/getdictus/dictus-ios) | iOS app (Swift, SwiftUI) |
 | [dictus-android](https://github.com/getdictus/dictus-android) | Android app (Kotlin) |
 | [dictus-website](https://github.com/getdictus/dictus-website) | Landing page — [getdictus.com](https://getdictus.com) |
+| [dictus-brand](https://github.com/getdictus/dictus-brand) | Brand assets — logos, icons & colors (iOS, Android, Web) |
 
 ## Links
 
