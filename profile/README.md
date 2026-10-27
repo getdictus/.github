@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>100% offline voice dictation for iOS, Android & Desktop.</strong><br />
-  Open source. Privacy-first. No cloud, no account, no subscription.
+  Open source. Privacy-first. No cloud, no account. Dictation is free; Dictus Pro adds optional paid features on iOS (coming with 2.0) and Android (in development).
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 | Platform | Repo | Status | Install |
 | --- | --- | --- | --- |
-| <img src="https://img.shields.io/badge/iOS-000?logo=apple&logoColor=white" alt="iOS" /> | **[dictus-ios](https://github.com/getdictus/dictus-ios)** · Swift / SwiftUI · [![Stars](https://img.shields.io/github/stars/getdictus/dictus-ios?style=social)](https://github.com/getdictus/dictus-ios) | Public beta | [TestFlight](https://testflight.apple.com/join/b55atKYX) |
+| <img src="https://img.shields.io/badge/iOS-000?logo=apple&logoColor=white" alt="iOS" /> | **[dictus-ios](https://github.com/getdictus/dictus-ios)** · Swift / SwiftUI · [![Stars](https://img.shields.io/github/stars/getdictus/dictus-ios?style=social)](https://github.com/getdictus/dictus-ios) | App Store | [App Store](https://apps.apple.com/app/id6761262378) |
 | <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" /> | **[dictus-android](https://github.com/getdictus/dictus-android)** · Kotlin / Jetpack Compose · [![Stars](https://img.shields.io/github/stars/getdictus/dictus-android?style=social)](https://github.com/getdictus/dictus-android) | Public beta | [APK release](https://github.com/getdictus/dictus-android/releases/latest) |
 | <img src="https://img.shields.io/badge/macOS-000?logo=apple&logoColor=white" alt="macOS" /> <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white" alt="Windows" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" /> | **[dictus-desktop](https://github.com/getdictus/dictus-desktop)** · Rust / Tauri · [![Stars](https://img.shields.io/github/stars/getdictus/dictus-desktop?style=social)](https://github.com/getdictus/dictus-desktop) | Early access | [Release](https://github.com/getdictus/dictus-desktop/releases/latest) |
 
@@ -35,8 +35,8 @@
 
 ## Why Dictus?
 
-- 🔒 **100% on-device** — no cloud, no telemetry, no account.
-- 🆓 **Free & open source** — MIT licensed across iOS, Android and Desktop.
+- 🔒 **On-device by default**: speech never leaves your device, no telemetry, no account.
+- 🆓 **Free dictation, open source**: MIT licensed across iOS, Android and Desktop. Desktop is free; on mobile, Dictus Pro is optional.
 - ⚡ **Whisper + Parakeet** — fast, accurate speech-to-text on the device.
 - 🖥 **Works everywhere you type** — system keyboard on mobile, global shortcut on desktop.
 - 🌐 **One ecosystem, your data** — three apps, zero servers in between.
@@ -45,7 +45,7 @@
 
 | Feature | **Dictus** | Apple Dictation | Wispr Flow | SuperWhisper | MacWhisper |
 | --- | :---: | :---: | :---: | :---: | :---: |
-| Price | **Free** | Built-in | Free / $15/mo | Free / $8.49/mo | Free / $6.99/mo |
+| Price | **Free** dictation + optional Pro (mobile) | Built-in | Free / $15/mo | Free / $8.49/mo | Free / $6.99/mo |
 | 100% offline | ✅ | ⚠️ | ❌ | ⚠️ | ⚠️ |
 | Privacy-first | ✅ | ⚠️ | ❌ | ⚠️ | ⚠️ |
 | Open source | ✅ | ❌ | ❌ | ❌ | ❌ |
@@ -56,7 +56,7 @@ See the full breakdown on [getdictus.com](https://getdictus.com).
 
 ## Support the project
 
-Dictus is free and will stay free. If it saves you time, [**donate at getdictus.com/donate**](https://getdictus.com/donate) — every euro funds new features and platform support (Smart Mode Pro, custom vocabulary, audio-file transcription, history, cross-device sync).
+Dictation in Dictus is free and the code is open source. Dictus Desktop is free. If it saves you time, [**donate at getdictus.com/donate**](https://getdictus.com/donate). Donations fund the free version of Dictus and do not unlock Dictus Pro.
 
 ## Get in touch
 
